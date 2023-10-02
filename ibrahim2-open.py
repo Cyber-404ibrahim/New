@@ -30,7 +30,7 @@ except ImportError:
 
 try:
         import zlib
-	import bs4
+	import 
 
 except ImportError:
 
